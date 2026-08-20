@@ -6,6 +6,6 @@ Then open:
 
 http://192.168.4.1/
 
-Have fun! 😎
+Have fun! 
 
-(GPT helped me with the code.)
+(GPT helped me with the .json code and a bit more)
